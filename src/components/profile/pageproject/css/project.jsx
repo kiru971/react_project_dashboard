@@ -26,7 +26,7 @@ export const ProgressButton = styled(Button)({
 export const ProjectSub = styled(Typography)({
   color: theme.palette.success.contrastText,
   fontWeight: "bold",
-  marginBottom: 3,
+  marginBottom: 24,
 });
 export const ProjectButton = styled(Button)({
   textTransform: "none",
